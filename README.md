@@ -70,3 +70,14 @@ pip install -r requirements.txt
 
 # Run the app
 python app.py
+```
+
+## ✨ **Author**
+**Dhruvil Dave**  
+💼 *AI & ML Enthusiast | Software Developer* 
+
+
+## License
+This project is licensed under the MIT License © 2025 Dhruvil Dave
+
+
